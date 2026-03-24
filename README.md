@@ -1,6 +1,7 @@
 Hill Climb Racing Engine + Box2d for Xbox 360 RGH
 
 Custom built Homebrew port made with ClaudeAI as proof of concept.
+<img width="1920" height="1080" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/fe325283-2c1e-42b8-8e5f-d187309c63ac" />
 
 Compile with NexiaIDE or VS.
 
