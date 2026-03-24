@@ -1,0 +1,25 @@
+{
+  "name": "HILL CLIMB 2026",
+  "path": "C:\\Users\\Nitro\\Documents\\Nexia IDE\\Projects\\HILL CLIMB 2026",
+  "type": "executable",
+  "template": "hello-world",
+  "sourceFiles": [
+    "src/stdafx.cpp"
+  ],
+  "includeDirectories": [
+    "include",
+    "src"
+  ],
+  "libraryDirectories": [],
+  "libraries": [],
+  "defines": [
+    "_XBOX"
+  ],
+  "configuration": "Release",
+  "pchHeader": "stdafx.h",
+  "enableRTTI": false,
+  "exceptionHandling": "EHsc",
+  "warningLevel": 3,
+  "additionalCompilerFlags": "",
+  "additionalLinkerFlags": ""
+}
