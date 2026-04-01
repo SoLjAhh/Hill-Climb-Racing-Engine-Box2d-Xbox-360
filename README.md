@@ -4,16 +4,17 @@ Custom built Homebrew port made with ClaudeAI as proof of concept.<img width="51
 
 <img width="1920" height="1080" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/fe325283-2c1e-42b8-8e5f-d187309c63ac" />
 
-Compile with NexiaIDE or VS.
+Compile with NexiaIDE.
 
 Works on RGH, XDK and PC emulators like Xenia Canary or Nexia360.
 
-Sound does not work, that is primarily the only issue with the game so far.
+Sound now works, thanks to ClaudeAI & Wojtan.
 
 Mod support for custom cars and levels!
-Users can add up to 25 cars and 25 custom tracks into the game easily through cfg moding, adding in car .png textures.
+Users can add up to 1,200 cars and 1,200 custom tracks into the game easily through cfg moding, adding in car .png textures.
 
 Working Plane!
 Working Boat!
 Working bridges with physics!
 Working Water physics!
+Working Sound!
