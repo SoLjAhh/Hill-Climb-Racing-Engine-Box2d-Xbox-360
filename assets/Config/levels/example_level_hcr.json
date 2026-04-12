@@ -1,0 +1,47 @@
+{
+    "level_format": "box2d_level_v1",
+    "name": "RUBE TEST",
+
+    "terrain": {
+        "amplitude":   0.26,
+        "frequency":   0.15,
+        "terrain_tex": "game:\\Levels\\water_floor.png",
+        "bg_tex":      "game:\\Levels\\gamebackground_l3.png",
+        "bg2_tex":     "game:\\Levels\\gamebackground2_l3.png",
+        "bg3_tex":     "game:\\Levels\\gamebackground3_l3.png"
+    },
+
+    "gravity": -9.81,
+
+    "spawn": {
+        "x": 12.0,
+        "y": 8.5
+    },
+
+    "bridge": {
+        "enabled": true,
+        { "x": 200.0, "height":  3.0, "width": 5.0 }
+		
+    },
+
+    "jumps": [
+        { "x":  55.0, "height":  3.0, "width": 5.0 },
+        { "x": 110.0, "height": -2.5, "width": 4.0 },
+        { "x": 170.0, "height":  4.0, "width": 6.0 },
+        { "x": 260.0, "height":  2.0, "width": 5.5 },
+        { "x": 330.0, "height": -3.0, "width": 4.5 },
+        { "x": 410.0, "height":  3.5, "width": 5.0 },
+		{ "x": 510.0, "height":  -3.5, "width": 3.0 },
+		{ "x": 610.0, "height":  4.5, "width": 7.0 }
+    ],
+
+    "water": [
+        { "x": 80.0, "width": 22.0, "depth": 2.5 },
+		{ "x": 120.0, "width": 22.0, "depth": 2.5 },
+		{ "x": 150.0, "width": 12.0, "depth": 1.5 }
+    ],
+
+    "finish_line_x": 1000.0,
+    "music": "game:\\Audio\\Music\\level1.wav",
+    "icon_tex": "game:\\Icons\\Levels\\level1_icon.png"
+}
